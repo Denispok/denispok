@@ -9,6 +9,14 @@
     margin: 0px auto 0px;
   }
 
+  @media (max-width: 420px){
+    .col{
+      width: 100%;
+      margin-left: 4px;
+      margin-right: 4px;
+    }
+  }
+
   h1,h2{
     text-align: center;
     color: #F0F0F0;
